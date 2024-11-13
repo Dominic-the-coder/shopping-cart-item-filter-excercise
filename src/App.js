@@ -25,20 +25,7 @@ function App() {
   };
 
   return (
-    // <div className="container">
-    //   <h3 className="fw bold mt-4 mb-3">Shopping Cart</h3>
-    //   <button
-    //     type="button"
-    //     className="btn btn-primary mb-4 px-3"
-    //     onClick={handleFilter}
-    //   >
-    //     nigga button
-    //   </button>
-    //   {showSaleItemsOnly.map((item) => (
-    //     <h3>{item.name}</h3>
-    //   ))}
-    // </div>
-
+    
     <div className="container">
       <h3 className="fw bold mt-5">Shopping Cart</h3>
       <button className="btn btn-primary my-3 mb-4" onClick={handleFilter}>
